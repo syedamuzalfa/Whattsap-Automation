@@ -83,14 +83,6 @@ Click on **"Send to Unfound Numbers"** to retry with direct messaging.
 ## ⚠️ Disclaimer
 This tool is intended for personal and educational use. **Sending bulk automated messages may violate WhatsApp's Terms of Service.** Use at your own discretion.
 
----
-
-## 👨‍💼 Author
-- **Your Name**
-- GitHub: [@yourgithub](https://github.com/yourgithub)
-- Email: your.email@example.com
-
----
 
 ## ⭐ Show your support
 If you like this project, star it on GitHub and share it with others!
